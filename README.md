@@ -3,7 +3,7 @@
 In the root Magento folder, run this command
 
 ```
-composer require shero/shero-theme dev-master
+composer require mrluisamador/m2-composer-boilerplate dev-master
 ```
 
 You will be asked to authenticate yourself to connect to Magento:
